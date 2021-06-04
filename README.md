@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaytak
 - 👀 I’m interested in robotics,automobiles
-- 🌱 I’m currently learning python and C++
+- 🌱 I’m currently learning python,C++ and ROS
 - 📫 How to reach me akshaytak1005@gmail.com
 
 <!---
